@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "762802647346",
+    "firebase_url": "https://auditionstube.firebaseio.com",
+    "project_id": "auditionstube",
+    "storage_bucket": "auditionstube.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762802647346:android:b79104df645570ae61a72b",
+        "android_client_info": {
+          "package_name": "com.auditionstube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762802647346-6k9pmmnmn1nn3bbl0qvb7lnml0uev8bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auditionstube",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "762802647346-9ia497p920olefsejp6t2nul99u6qdhg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auditionstube",
+            "certificate_hash": "232a942c4ccd64738e15cc1c9bb99d3a605090b7"
+          }
+        },
+        {
+          "client_id": "762802647346-u7kd5hn8o8ctile8ji2vcqc846358ov9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46jsoPWN8RFDRMZ3wb2ftCGIeQjofqCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762802647346-u7kd5hn8o8ctile8ji2vcqc846358ov9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

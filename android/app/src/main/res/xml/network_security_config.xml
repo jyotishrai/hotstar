@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- deny cleartext traffic for React Native packager ips in release -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">cricliveline11.com</domain>
+        <domain includeSubdomains="true">205.147.102.6</domain>
+        <domain includeSubdomains="true">192.168.1.128</domain>
+        <domain includeSubdomains="true">192.168.1.193</domain>
+        <domain includeSubdomains="true">192.168.1.100</domain>
+        <domain includeSubdomains="true">192.168.1.101</domain>
+        <domain includeSubdomains="true">192.168.43.24</domain>
+        <domain includeSubdomains="true">192.168.43.166</domain>
+        <domain includeSubdomains="true">192.168.43.74</domain>
+        <domain includeSubdomains="true">clips.vorwaerts-gmbh.de</domain>
+        <domain includeSubdomains="true">192.168.43.174</domain>
+        <domain includeSubdomains="true">192.168.43.169</domain>
+        <domain includeSubdomains="true">192.168.43.62</domain>
+        <domain includeSubdomains="true">192.168.43.251</domain>
+        <domain includeSubdomains="true">192.168.43.75</domain>
+        <domain includeSubdomains="true">172.104.186.169</domain>
+         <domain includeSubdomains="true">192.168.1.36</domain>
+    </domain-config>
+</network-security-config>
